@@ -1,0 +1,68 @@
+Gives an unconditional termination to a code block.
+break
+
+This block of code will output a result and end when its terms are fulfilled, which are defined with when or else.
+case
+
+Opens a class definition block.
+class
+
+Used to define a method.
+def
+
+Paired with end, this can delimit a code block, the same as curly braces.
+do
+
+Used as an alternate in an if-statement.
+else
+
+Similar to else, but has a higher precedence, and is usually paired with terms.
+elsif
+
+Designates the end of a code block, loop, method or class.
+end
+
+Evaluates to true or false.
+boolean
+
+Ruby's basic conditional statement constructor.
+if
+
+Used as an envelope or container for methods and behaviors.
+module
+
+A "non-object" that connotes absence and indeterminacy.
+nil
+
+Evaluates two statements together, for instance: if A and B.
+&&
+
+Evaluates two statements individually, for instance: if A or B.
+||
+
+The "current object" and the default receiver of methods. Used in calling class methods.
+self
+
+The negative equivalent of if. Equates to the same as if not.
+unless
+
+The inverse of while. Executes code while it is not true.
+until
+
+Stores data in a key pair relationship.
+hash
+
+Stores data numerically by index.
+array
+
+A number without decimals.
+integer
+
+Stores data in groups of characters.
+string
+
+Expands the core functionality of Ruby. Also a type of shiny rock.
+gem
+
+Stores a single reference to data.
+variable
